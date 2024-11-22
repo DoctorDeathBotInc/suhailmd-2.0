@@ -1,6 +1,6 @@
-# SUHAIL-X (V2)
+# Hitman-X (V1)
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DoctorDeathBotInc"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
@@ -26,9 +26,9 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SUHAILMD-2.0}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet Hitman-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Hitman_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="HITMAN-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -123,14 +123,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="2348163137129"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
       THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
-      PREFIX = .
+      OWNER_NAME = "Hitman"
+      PREFIX = +
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "SUHAIL"
+      THEME= "HITMAN"
       MODE = "public"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
@@ -202,9 +202,9 @@ npm start
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Hitman-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Hitman-Md at your own risk by keeping this warning in mind.*
  
 
 - Star ⭐ repo if you like this bot.
